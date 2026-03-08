@@ -1,7 +1,3 @@
-Based on your notebook, here is a **clean, professional README.md** you can use for your project.
-
----
-
 # Real Estate Data Collection and Analysis – Yerevan Apartments
 
 ## Project Overview
@@ -291,6 +287,3 @@ The project also provides a foundation for future work such as:
 * clustering of real estate listings
 * machine learning applications for property valuation.
 
----
-
-If you want, I can also show you **2 small improvements that will make your project look much more professional on GitHub (like a real data science portfolio project)**.
